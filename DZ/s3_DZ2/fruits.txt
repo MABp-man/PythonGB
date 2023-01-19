@@ -1,0 +1,7 @@
+apricot
+banana
+melon
+avocado
+orange
+quince
+kiwi
